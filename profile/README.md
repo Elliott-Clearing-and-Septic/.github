@@ -14,11 +14,6 @@ Elliott Clearing and Septic has been serving the Marion, NC area for over 20 yea
 - [Facebook](https://www.facebook.com/elliottclearingandseptic)
 - [Website](http://www.elliottclearingandseptic.com)
 
-### 📍 Office Location
-- **Address**: 1850 N Main Street, Marion, NC, United States, North Carolina
-- **Please note**: The office address is not open to the general public.
-- **GPS Coordinates**: 35.70318,-82.02969
-
 ### 🛠 Services Offered
 - Grading
 - Custom Rock Walls
